@@ -2,6 +2,7 @@
 
 visit the site on http://saetkmce.com/
 
+![alt text](http://saetkmce.com/ImagesFrontPage/sae_tkmce.png?raw=true)
 
 ## Welcome to GitHub Pages
 
